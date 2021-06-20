@@ -45,6 +45,6 @@ git@github.com:kelsiane/site-djassessoria.git
 <br/>
 
 # :unlock: Licença
-Lançado em 2020. Este projeto está sob a licença do MIT .
+Lançado em 2021. Este projeto está sob a licença do MIT .
 
 Feito com muita dedicação por Kelsiane Lima :zap:
