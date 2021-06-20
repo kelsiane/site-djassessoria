@@ -1,0 +1,64 @@
+
+/* Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) { 
+
+    .navbar-dark .navbar-brand{
+
+        font-size: 35px;
+
+    }
+    #home {
+        text-align: center;
+    }
+
+    .h2-text{
+
+        font-size: 25px;
+    }
+    .h5-text{
+
+        font-size: 20px;
+    }
+    .mt-4 .p-text-capa .lead{
+
+        font-size: 15px;
+
+    }
+
+
+    .h1-recurso{
+       
+        font-size: 30px;
+    }
+
+    .h1-Choouse{
+        
+        font-size: 30px;
+    }
+
+    .h1-Cliente{
+        
+        font-size: 30px;
+    }
+
+    .h2-Choouse{
+       
+        font-size: 25px;
+        text-align: center;
+    }
+
+ 
+ }
+
+
+ /* Medium devices (tablets, less than 992px) */
+
+/* @media (max-width: 991.98px) {  
+
+    .navbar-dark .navbar-brand{
+
+        font-size: 35px;
+
+    }
+} */

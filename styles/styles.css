@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
+body {
+  background: linear-gradient(to right, #84c5e0, #253c93);
+}
+/* tamanho do scrol */
+body::-webkit-scrollbar {
+  width: 10px;
+  background-color: #f5fdff;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #c5bdbd;
+}
+
+.navbar-dark .navbar-brand {
+  font-size: 45px;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  font-size: 18px;
+}
+
+body {
+  transition: all 0.4s;
+}
+
+.h2-text {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.p-text-capa {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.setor {
+  background: #f5fdff;
+  height: 100%;
+}
+.services {
+  background: linear-gradient(to right, #84c5e0, #253c93);
+
+  height: 100%;
+}
+
+.h1-recurso {
+  font-family: "Roboto", sans-serif;
+  color: rgb(59, 59, 59);
+}
+
+.h1-recurso::before {
+  content: "";
+  background: #253c93;
+  height: 5px;
+  width: 120px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  transform: translateY(70px);
+}
+
+.card {
+  text-align: center;
+  padding: 24px;
+}
+
+/* botão */
+
+.btn-card {
+  width: 150px;
+  background: linear-gradient(to right, #26296f, #26296f);
+  color: white;
+  border: 0;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.card-footer {
+  background-color: rgb(255, 255, 255);
+  border-top: none;
+}
+
+#Carrousel {
+  background: #f5fdff;
+  font-family: "Roboto", sans-serif;
+}
+#sistema {
+  background: #f5fdff;
+  font-family: "Roboto", sans-serif;
+}
+
+.choouse-img img {
+  margin-top: 5vh;
+}
+
+.h1-Choouse::before {
+  content: "";
+  background: #253c93;
+  height: 3px;
+  width: 120px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  transform: translateY(60px);
+}
+
+#Client {
+  background: #f8fdff;
+  font-family: "Roboto", sans-serif;
+  height: 100%;
+}
+
+.h1-Cliente::before {
+  content: "";
+  background: #253c93;
+  height: 5px;
+  width: 120px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  transform: translateY(80px);
+}
+
+.cards-client {
+  border-left: 2px solid #253c93;
+  padding: 13px;
+}
+
+footer {
+  background: linear-gradient(to right, #84c5e0, #253c93);
+}
+
+.btn-footer {
+  background: linear-gradient(to right, #84c5e0, #253c93);
+  border: 1px solid white;
+  border-radius: 4px;
+  color: white;
+
+  padding: 4px;
+}
